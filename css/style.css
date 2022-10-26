@@ -408,9 +408,10 @@ footer .content .box {
   }
 }
 
-footer .content .box:last-child h4 {
+footer .content .box:last-child h5 {
   text-transform: uppercase;
   margin-bottom: 15px;
+  font-size: 20px;
 }
 
 footer .content .box:last-child .form {
